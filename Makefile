@@ -1,0 +1,2 @@
+checkall:
+	mypy py/*.py
